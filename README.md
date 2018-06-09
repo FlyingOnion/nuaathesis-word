@@ -1,7 +1,7 @@
 # nuaa-template-word
 南京航空航天大学本科毕设模板word版
 
-南航本科毕设模板LaTex版链接：点击[这里](https://github.com/nuaatug/nuaathesis)
+南航本科毕设模板LaTeX版链接：点击[这里](https://github.com/nuaatug/nuaathesis)
 
 本模板做了以下改进：
 * 将毕业设计中有格式要求的部分都做成了样式，在使用时直接调用样式即可；

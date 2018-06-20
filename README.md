@@ -9,4 +9,11 @@
 * 目录自动调整
 * 页码自动调整
 
-截图待补充
+<del>截图待补充</del>
+2018.06.20 补充截图、word文件
+
+### 样式表（详见docx文件）
+![样式表](https://github.com/FlyingOnion/nuaa-template-word/raw/master/%E6%A0%B7%E5%BC%8F%E8%A1%A8.png)
+
+### 示例（1级标题）
+![1级标题](https://github.com/FlyingOnion/nuaa-template-word/raw/master/example1.png)

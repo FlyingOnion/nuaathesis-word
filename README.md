@@ -16,4 +16,5 @@
 ![样式表](https://github.com/FlyingOnion/nuaa-template-word/raw/master/%E6%A0%B7%E5%BC%8F%E8%A1%A8.png)
 
 ### 示例（1级标题）
+红框中样式为学校要求
 ![1级标题](https://github.com/FlyingOnion/nuaa-template-word/raw/master/example1.png)
